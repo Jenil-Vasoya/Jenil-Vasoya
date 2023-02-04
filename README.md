@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.instagram.com/itz_khedut/">
+  <img align="center" alt="itz_khedut" height="30" width="40" / src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
 <a href="https://twitter.com/jenilvasoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jenilvasoya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jenil-vasoya-887843226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenil-vasoya-887843226" height="30" width="40" /></a>
 </p>
