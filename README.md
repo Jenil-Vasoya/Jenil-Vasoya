@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenil-vasoya&label=Profile%20views&color=0e75b6&style=flat" alt="jenil-vasoya" /> </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/Right_Side.gif" width = 250px></picture>
 
 - 🔭 I’m currently working on [CI-Platform-Project](https://github.com/Jenil-Vasoya/CI-Platform-Project)
 
@@ -70,7 +70,7 @@
 
   
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="75"><b> Let's Connect..!</b>
+## <img src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/handshake.gif" width ="75"><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
