@@ -16,7 +16,7 @@
 - 📫 How to reach me **jenilvpatel7@gmail.com**
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/line.gif"><br><br>
 
 
 
@@ -56,7 +56,7 @@
   
   
   
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  ## <img src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/giphy.webp" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -108,7 +108,7 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/line.gif">
 <br>
 <br>
 <br>
