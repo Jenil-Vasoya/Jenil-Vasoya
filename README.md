@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working on [CI-Platform-Project](https://github.com/Jenil-Vasoya/CI-Platform-Project)
+- 🔭 I’m currently working on [CQRSDemo](https://github.com/Jenil-Vasoya/CQRSDemo)
 
 - 🌱 I’m currently learning **.Net**
 
