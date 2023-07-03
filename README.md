@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/Jenil-Vasoya/Jenil-Vasoya/blob/main/GIF/Right_Side.gif" width = 250px></picture>
 
-- 🔭 I’m currently working on [CQRS-Demo](https://github.com/Jenil-Vasoya/CQRSDemo)
+- 🔭 I’m currently working on [CQRS-Demo](https://github.com/Jenil-Vasoya/reactdemo)
 
 - 🌱 I’m currently learning **.Net**
 
